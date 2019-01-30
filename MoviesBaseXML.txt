@@ -1,0 +1,15 @@
+<xml>
+<channel>
+<version>1.0</version>
+<name>Youtube Movies</name>
+<description>Youtube Movies</description>
+<encryption>No</encryption>
+<channel_logo>https://dl.dropboxusercontent.com/s/shbvkwf3yheoj12/movies.PNG?dl=0</channel_logo>
+<refresh_type>Auto</refresh_type>
+<refresh_time>86400</refresh_time>
+<mastertype>Movie</mastertype>
+<category_view>1-TierView</category_view>
+<category_type>movieCategory</category_type>
+<base_url>https://dl.dropboxusercontent.com/s/re2npi83j45kpu7/MoviesFirstLevelSingleTier.txt?dl=0</base_url>
+</channel>
+</xml>
